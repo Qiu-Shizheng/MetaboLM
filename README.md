@@ -20,5 +20,5 @@ matplotlib 3.8.4
 
 ## Installation guide
 ```
-git clone https://github.com/ErfanMowlaei/STIC](https://github.com/Qiu-Shizheng/MetaboLM.git
+git clone https://github.com/Qiu-Shizheng/MetaboLM.git
 ```
