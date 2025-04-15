@@ -22,3 +22,5 @@ matplotlib 3.8.4
 ```
 git clone https://github.com/Qiu-Shizheng/MetaboLM.git
 ```
+## Simulated dataset
+Since the original data cannot be provided, we have provided a simulated dataset, simulated_metabolomics_data.csv, that has a similar distribution and the same metabolite composition as the original dataset.
