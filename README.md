@@ -20,3 +20,6 @@ matplotlib 3.8.4
 
 ## Simulated dataset
 Since the original data cannot be provided, we have provided a simulated dataset, simulated_metabolomics_data.csv, that has a similar distribution and the same metabolite composition as the original dataset.
+
+## Weight
+The weight for pre-training model is available at https://figshare.com/s/bd69f74785946802b585
