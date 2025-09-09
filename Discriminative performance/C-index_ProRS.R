@@ -516,7 +516,7 @@ for (disease in names(disease_list)) {
   ######################################################
   # Load Risk Score File
   ######################################################
-  risk_file <- paste0("your/path/finetune_daixie_0313_168_20250312_002754/", 
+  risk_file <- paste0("your/path/", 
                       disease, "/finetune_predictions_", disease, ".csv")
   
   if (!file.exists(risk_file)) {
@@ -594,4 +594,5 @@ write.csv(results, file = "your/path/cox_model_results.csv", row.names = FALSE)
 cat("\nAll model results have been saved to: cox_model_results.csv\n")
 
 close(pb)
+
 stopCluster(cl)
