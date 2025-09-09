@@ -23,3 +23,6 @@ Since the original data cannot be provided, we have provided a simulated dataset
 
 ## Weight
 The weight for pre-training model is available at https://figshare.com/s/bd69f74785946802b585
+
+## DOI
+https://doi.org/10.5281/zenodo.17083417
