@@ -3,7 +3,7 @@ MetaboLM: A metabolomic language model for multi-disease early prediction and ri
 
 
 ## Instruction
-MetaboLM is a transformer-based language model that was pre-trained on plasma metabolomics data from 83,744 healthy UK Biobank participants, enabling it to capture inherent patterns of metabolite interactions. We fine-tuned the model using metabolomics data from individuals diagnosed with 16 common chronic diseases. Additionally, MetaboLM can be adapted to support other custom fine-tuning tasks. 
+MetaboLM is a transformer-based model that was pre-trained on plasma metabolomics data from 83,744 healthy participants, enabling it to capture inherent patterns of metabolite interactions. 
 
 ## System requirements
 torch 2.4.1+cu124  
