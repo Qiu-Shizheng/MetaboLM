@@ -17,9 +17,9 @@ scipy 1.13.1
 seaborn 0.12.2  
 python 3.11.9  
 pytorch-cuda 12.4    
-optuna 3.6.1     
-numpy 1.26.4
-matplotlib 3.8.4 
+optuna 3.6.1      
+numpy 1.26.4  
+matplotlib 3.8.4  
 
 ---
 
