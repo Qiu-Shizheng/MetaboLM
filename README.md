@@ -5,6 +5,10 @@ MetaboLM: A metabolomic language model for multi-disease early prediction and ri
 ## Instruction
 MetaboLM is a transformer-based model that was pre-trained on plasma metabolomics data from 83,744 healthy participants, enabling it to capture inherent patterns of metabolite interactions. 
 
+The updated version is available at: https://github.com/Qiu-Shizheng/Metabolome-Transformer/tree/master
+
+--
+
 ## System requirements
 torch 2.4.1+cu124  
 tqdm 4.66.4  
@@ -17,19 +21,27 @@ optuna 3.6.1
 numpy 1.26.4
 matplotlib 3.8.4 
 
+--
+
 ## Simulated dataset
 Since the original data cannot be provided, we have provided a simulated dataset, simulated_metabolomics_data.csv, that has a similar distribution and the same metabolite composition as the original dataset.
+
+--
 
 ## Weight
 The weight for pre-training model is available at https://figshare.com/s/bd69f74785946802b585
 
 The weight for fine-tuning models are available at 10.6084/m9.figshare.30744284
         
+        
+        
 
         
 
 ## DOI
 https://doi.org/10.5281/zenodo.17083417
+        
+        
         
         
         
